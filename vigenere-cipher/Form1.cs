@@ -70,8 +70,10 @@ namespace vigenere_cipher
         {
             int countKey = key.Length;
             int countText = text.Length;
-            string reducedText;
-
+            string reducedText = "";
+            int j = 0;
+            expandedKey = "";
+            spaceLocs = new List<int>();
             for (int i = 0; i < countText; i++)
             {
                 if (j == countKey)

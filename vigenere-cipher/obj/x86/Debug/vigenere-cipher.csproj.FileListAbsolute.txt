@@ -1,0 +1,5 @@
+D:\DEv\WEB DEv\projects\vigenere-cipher\vigenere-cipher\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DEv\WEB DEv\projects\vigenere-cipher\vigenere-cipher\obj\x86\Debug\vigenere_cipher.Form1.resources
+D:\DEv\WEB DEv\projects\vigenere-cipher\vigenere-cipher\obj\x86\Debug\vigenere_cipher.Properties.Resources.resources
+D:\DEv\WEB DEv\projects\vigenere-cipher\vigenere-cipher\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DEv\WEB DEv\projects\vigenere-cipher\vigenere-cipher\obj\x86\Debug\GenerateResource.write.1.tlog
